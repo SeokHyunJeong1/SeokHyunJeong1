@@ -5,7 +5,6 @@
 
 - 제 이메일은 **wtg031107@kau.kr**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
